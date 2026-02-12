@@ -1,0 +1,2 @@
+# SplineParsedMaterial
+基于样条插值的MOOSE相场材料类
